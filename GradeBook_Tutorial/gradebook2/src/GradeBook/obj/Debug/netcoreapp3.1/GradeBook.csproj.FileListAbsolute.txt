@@ -1,0 +1,13 @@
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Windows-7\Documents\Google_Drive_Transfer\Pluralsight\GradeBook_Tutorial\gradebook2\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
