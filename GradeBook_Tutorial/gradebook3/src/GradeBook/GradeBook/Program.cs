@@ -18,7 +18,7 @@ namespace GradeBook
 
             //var x = 34.1;
             //var y = 10.3;
-            // Implicity-typed variables must be initialized.
+            // Implicit-typed variables must be initialized.
             //var result = x + y;
             // Result: 44.400000000000006
             // TODO: Rounding to 44.4 ?
